@@ -23,11 +23,6 @@
   weight = 30
 
 [[main]]
-  name = ""
-  pageRef = "github"
-  weight = 40
-
-[[main]]
   identifier = "search"
   weight = 99
   [main.params]
