@@ -1,4 +1,9 @@
 {
-"cleanUrls": true,
-"trailingSlash": true
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.128.0"
+    }
+  }
 }
