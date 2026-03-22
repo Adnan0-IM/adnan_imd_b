@@ -1,8 +1,5 @@
 {
   "cleanUrls": true,
   "trailingSlash": true,
-  "buildCommand": "hugo --minify",
-  "env": {
-    "HUGO_VERSION": "0.128.0"
-  }
+  "buildCommand": "curl -L https://github.com/gohugoio/hugo/releases/download/v0.155.3/hugo_extended_0.155.3_Linux-64bit.tar.gz | tar -xz && ./hugo --minify"
 }
