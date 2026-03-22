@@ -56,9 +56,9 @@ fingerprintAlgorithm = "sha256"
   # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = true
-  showTableOfContents = false
+  showTableOfContents = true
   showTaxonomies = true
   groupByYear = true
   paginationWidth = 1
@@ -73,7 +73,7 @@ fingerprintAlgorithm = "sha256"
   # site = "ABC12345"
 
 [plausibleAnalytics]
-  # domain = "blog.yoursite.com"
+   domain = "blog.adnanilyas.dev"
   # event = ""
   # script = ""
 
