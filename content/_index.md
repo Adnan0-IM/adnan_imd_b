@@ -1,11 +1,12 @@
 ---
-title: "Welcome"
+title: Welcome
 date: 2026-03-18
-description: "Notes on building, learning, and shipping useful things."
+description: General post on anything.
 ---
-
 Welcome to my blog.
 
-This is where I publish practical notes on software, web development, and experiments that worked (or failed in interesting ways). If you like concise write-ups with examples you can reuse, you are in the right place.
+This is where I publish blog post, for both entertainment and some for education purposes.
 
 Start with the latest posts in the blog section.
+
+Check out [about](about.md) me if you want to know more about me.

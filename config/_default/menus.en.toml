@@ -21,6 +21,20 @@
   weight = 30
 
 [[main]]
+  name = "Categories"
+  pageRef = "Categories"
+  weight = 35
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/Adnan0-IM/"
+  weight = 40
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
