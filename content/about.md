@@ -2,36 +2,49 @@
 title: About
 date: 2026-03-18T05:00:00
 showTableOfContents: true
-description: Hi, I’m Adnan. I build software and document what I learn about self-development, life, and writing.
+description: About me, my interests, and what motivates my writing.
 ---
+### Intro
 
-Hi, I’m Adnan. I build software and document what I learn along the way. I’m focused on self-development and improvement. This blog shares my life experiences and lessons—writing that entertains or helps people in any way.
+Hi, I’m Adnan — a developer sharing code, ideas, and personal growth.
+
+I’m focused on improving myself — both technically and personally. This blog is where I share lessons, ideas, and experiences that might be useful or interesting to others.
+
+You can check out my [portfolio](https://adnanilyad.dev/) to see what I’m working on, or connect with me on [LinkedIn](https://linkedin.com/adnanilyas) and [GitHub](https://github.com/Adnan0-IM).
+
+### About Me
+
+I’m a software developer with an interest in building practical applications and understanding how things work.
+
+I enjoy exploring new technologies, tinkering with my devices, software and anything I get my hands on, often breaking things while trying to fix others, and reflecting on what I learn. Over time, I’ve found that writing helps me think more clearly and improve faster.
+
+### Interests & Skills
+
+- Software development (web, backend, automation)
+- Personal growth and productivity
+- Writing and documentation
+- Understanding people and communication
+
+>[!Note]
+>You can explore my projects and skills on my [portfolio](https://adnanilyas.dev/).
+
+### What Motivates My Writing
+
+I write to make my thinking clearer and to keep track of what I learn.
+
+Sometimes it’s a technical guide, sometimes it’s a personal reflection. Either way, the goal is simple: write something honest and useful.
 
 
-Check out my [portfolio](https://adnanilyas.dev/) to see what I do. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/adnan-aziz/) or [GitHub](https://github.com/Adnan0-IM)
+### Topics You Can Expect Here
 
-## About Me
-
-I’m a software developer with a passion for learning, self-improvement, and sharing knowledge. I enjoy exploring new technologies, reflecting on life, and writing about the things that matter to me. My journey in tech started out of curiosity and a desire to solve real-world problems.
-
-## Interests & Skills
-
-- Software engineering (web, backend, automation)
-- Self-development & productivity
-- Writing & documentation
-- Life lessons and personal growth
-
-## What Motivates My Writing
-
-I write to clarify my thoughts, help others, and document what I learn. My goal is to create content that’s useful, honest, and sometimes just fun to read. Whether it’s a technical guide or a personal reflection, I hope you find something here that resonates with you.
-
-## Topics You Can Expect Here
-
-- Software & coding tutorials
+- Coding tutorials and technical notes
 - Productivity and self-improvement
-- Reflections on life and learning
-- Anything else that comes to mind
+- Lessons from personal experience
+- Thoughts on learning and growth
 
-## Connect With Me
 
-You can reach me through the links in the author section. I’m always open to connecting with fellow learners, developers, and readers—feel free to say hi or share your thoughts!
+### Connect With Me
+
+You can reach me through the links in the author section below.
+
+I’m always open to connecting with other developers, learners, and curious people — feel free to say hi.

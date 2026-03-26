@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3bb6f7ec5a48722",
+            "id": "45d4547a8664696f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/prison-break-lesson/index.md",
+                "file": "posts/notes/small-observations-that-stick-with-me/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": true,
@@ -201,7 +202,6 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
-      "templater-obsidian:Templater": false,
       "random-note:Open random note": false,
       "seo:Open SEO audit panel": false,
       "astro-composer:Open project terminal": false,
@@ -209,51 +209,51 @@
       "home-base:Open home base": false
     }
   },
-  "active": "f3bb6f7ec5a48722",
+  "active": "04e2be8b2e1a8d5c",
   "lastOpenFiles": [
+    "posts/life/why-i-value-quiet-places-more-than-anything/index.md",
     "bases/Home.base",
-    "posts/mern-pern-docker-setup/index.md",
-    "posts/peaceful-moment/index.md",
+    "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/index.md",
+    "posts/notes/small-observations-that-stick-with-me/index.md",
+    "posts/notes/small-observations-that-stick-with-me",
+    "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md",
+    "posts/_index.md",
+    "posts/new-title/index.md",
+    "posts/new-title",
+    "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/feature.jpg",
+    "about.md",
+    "_index.md",
+    "posts/notes",
+    "posts/life",
+    "posts/growth",
+    "posts/software",
     "posts/peaceful-moment/car.jpg",
-    "posts/mern-pern-docker-setup/feature.jpg",
     "posts/mern-pern-docker-setup/feature.png",
-    "posts/prison-break-lesson/index.md",
-    "posts/prison-break-lesson/feature.png",
+    "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/feature.png",
     "posts/peaceful-moment/feature.png",
     "posts/test/index.md",
     "posts/test/feature.png",
-    "posts/_index.md",
     "post/my-new-post.md",
     "post",
     "posts/new/index.md",
     "posts/test",
     "posts/hy-new-one/index.md",
-    "about.md",
-    "_index.md",
     "posts/haha-blabla.md",
     "posts/blabla/index.md",
     "posts/another-onw/index.md",
     "posts/blabla",
     "Templates/post-bundle.md",
-    "posts/another-onw",
-    "posts/hy-new-one",
     "posts/new/cover.png",
     "posts/new/thumbnail.png",
     "posts/new/haha-blabla.png",
     "attachments/haha-blabla.png.md",
-    "attachments",
-    "bases",
-    "posts/new",
     "posts/blabbla-new-blab-bla/index.md",
-    "posts/blabbla-new-blab-bla",
     "posts/peaceful-moment-b/index.md",
     "posts/ntitled 1.md",
     "posts/three-four-five/index.md",
     "posts/one-two-working/index.md",
     "posts/one-two/index.md",
     "posts/blabla-five-one/index.md",
-    "posts/blablafive/index.md",
-    "Templates/post.md",
-    "posts/index.md"
+    "posts/blablafive/index.md"
   ]
 }

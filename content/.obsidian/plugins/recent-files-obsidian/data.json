@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "index",
-      "path": "posts/prison-break-lesson/index.md"
+      "path": "posts/notes/small-observations-that-stick-with-me/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "posts/life/why-i-value-quiet-places-more-than-anything/index.md"
     },
     {
       "basename": "Home",
@@ -10,23 +14,19 @@
     },
     {
       "basename": "index",
-      "path": "posts/mern-pern-docker-setup/index.md"
+      "path": "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/index.md"
     },
     {
       "basename": "index",
-      "path": "posts/peaceful-moment/index.md"
-    },
-    {
-      "basename": "feature",
-      "path": "posts/mern-pern-docker-setup/feature.jpg"
-    },
-    {
-      "basename": "feature",
-      "path": "posts/prison-break-lesson/feature.png"
+      "path": "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md"
     },
     {
       "basename": "_index",
       "path": "posts/_index.md"
+    },
+    {
+      "basename": "feature",
+      "path": "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/feature.jpg"
     },
     {
       "basename": "about",
@@ -35,6 +35,10 @@
     {
       "basename": "_index",
       "path": "_index.md"
+    },
+    {
+      "basename": "feature",
+      "path": "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/feature.png"
     },
     {
       "basename": "20260323",
