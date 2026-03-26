@@ -5,10 +5,12 @@ draft: false
 feature: "*feature*"
 image: ""
 description: ""
-tags: []
-categories: ""
+tags:
+  - ideas
+  - reflection
+  - thoughts
+categories: notes
 ---
-
 Content
 
 I’ve noticed small things lately that I usually overlook:

@@ -1,11 +1,11 @@
 ---
-title: "Why I Value Quiet Places More Than Anything"
+title: Why I Value Quiet Places More Than Anything
 date: 2026-03-26
 draft: true
-description: ""
+description: A few small thoughts and observations I’ve noticed recently.
 image:
 tags:
-  - refelection
+  - reflection
   - quiet
   - environment
 categories:
