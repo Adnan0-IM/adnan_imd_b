@@ -1,6 +1,6 @@
 {
   "accentColor": "#43cfea",
-  "cssTheme": "Cinderpaper",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
@@ -9,8 +9,7 @@
     "Daily Note",
     "Japanese Fonts",
     "Daily Note Themes",
-    "CyanVoxel's General Tweaks",
-    "Colored Sidebar Items"
+    "CyanVoxel's General Tweaks"
   ],
   "translucency": false,
   "theme": "moonstone",
