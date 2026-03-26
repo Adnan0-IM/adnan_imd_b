@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fa4d5ebe3991d20",
+            "id": "1fb835eb6e46bc75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/life/why-i-value-quiet-places-more-than-anything/index.md",
+                "file": "posts/notes/small-observations-that-stick-with-me/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,11 +209,11 @@
       "home-base:Open home base": false
     }
   },
-  "active": "1ae5e58b78992bfe",
+  "active": "1fb835eb6e46bc75",
   "lastOpenFiles": [
     "bases/Home.base",
-    "posts/notes/small-observations-that-stick-with-me/index.md",
     "posts/life/why-i-value-quiet-places-more-than-anything/index.md",
+    "posts/notes/small-observations-that-stick-with-me/index.md",
     "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/index.md",
     "posts/notes/small-observations-that-stick-with-me",
     "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md",

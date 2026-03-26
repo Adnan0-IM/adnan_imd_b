@@ -4,7 +4,7 @@ date: 2026-03-26T16:51:00
 draft: false
 feature: "*feature*"
 image: ""
-description: ""
+description: A few small thoughts and observations I’ve noticed recently.
 tags:
   - ideas
   - reflection
