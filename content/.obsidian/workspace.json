@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9ba319c5cfb2679",
+            "id": "fc3f4f91fbc39982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/small-observations-that-stick-with-me/index.md",
+                "file": "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,25 +209,25 @@
       "home-base:Open home base": false
     }
   },
-  "active": "a9ba319c5cfb2679",
+  "active": "fc3f4f91fbc39982",
   "lastOpenFiles": [
+    "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/index.md",
+    "posts/life/the-most-peaceful-moment-for-me/index.md",
+    "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md",
+    "posts/notes/small-observations-that-stick-with-me/index.md",
+    "bases/Home.base",
     "posts/small-observations-that-stick-with-me",
     "posts/small-observations-that-stick-with-me/index.md",
     "posts/new-post/index.md",
     "posts/new-post",
-    "posts/life/why-i-value-quiet-places-more-than-anything/index.md",
-    "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/index.md",
     "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/feature.jpg",
     "posts/notes/small observations/feature.jpg",
     "posts/notes/small observations/index.md",
     "posts/notes/blabla.md",
-    "posts/notes/small-observations-that-stick-with-me/index.md",
     "posts/notes/small observations",
     "posts/notes/_index.md",
     "_index.md",
-    "bases/Home.base",
     "posts/notes/small-observations-that-stick-with-me",
-    "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md",
     "posts/_index.md",
     "posts/new-title/index.md",
     "posts/new-title",
@@ -243,7 +243,6 @@
     "posts/test/index.md",
     "posts/test/feature.png",
     "post/my-new-post.md",
-    "post",
     "posts/new/index.md",
     "posts/hy-new-one/index.md",
     "posts/haha-blabla.md",

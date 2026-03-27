@@ -2,15 +2,23 @@
   "recentFiles": [
     {
       "basename": "index",
-      "path": "posts/small-observations-that-stick-with-me/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "posts/life/why-i-value-quiet-places-more-than-anything/index.md"
+      "path": "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md"
     },
     {
       "basename": "index",
       "path": "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "posts/life/the-most-peaceful-moment-for-me/index.md"
+    },
+    {
+      "basename": "Home",
+      "path": "bases/Home.base"
+    },
+    {
+      "basename": "index",
+      "path": "posts/small-observations-that-stick-with-me/index.md"
     },
     {
       "basename": "feature",
@@ -19,14 +27,6 @@
     {
       "basename": "_index",
       "path": "_index.md"
-    },
-    {
-      "basename": "Home",
-      "path": "bases/Home.base"
-    },
-    {
-      "basename": "index",
-      "path": "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md"
     },
     {
       "basename": "_index",
