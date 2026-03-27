@@ -1,7 +1,7 @@
 ---
 title: What T-Bag from Prison Break Taught Me About Not Playing the Victim
 date: 2026-03-23T23:12:00
-draft: false
+draft: true
 description: A reflection on mindset, responsibility, and refusing to be defined by the past.
 tags:
   - lesson

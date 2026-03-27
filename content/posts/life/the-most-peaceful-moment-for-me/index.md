@@ -1,7 +1,7 @@
 ---
 title: The most peaceful moment for me
 date: 2026-03-26T05:06:00
-draft: false
+draft: true
 description: A few small thoughts and observations I’ve noticed recently.
 image:
 tags:
