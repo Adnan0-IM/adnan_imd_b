@@ -20,10 +20,12 @@ enableImageWebp = true
 fingerprintAlgorithm = "sha256"
 
 [header]
+
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
-   #logo = "img/logo.jpg"
+  #logo = "img/logo.jpg"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
+  showAppearanceSwitcher = true
 
 [footer]
   showCopyright = true
