@@ -15,15 +15,15 @@
   pageRef = "posts"
   weight = 1
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 35
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 35
 
 [[main]]
   name = "About"
@@ -46,14 +46,6 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Portfolio"
-#   url = "https://adnanilyas.dev/"
-#   weight = 1
-#   [footer.params]
-#     icon = "link"
-#     showName = true
-#     target = "_blank"
 
 # [[footer]]
 #   name = "LinkedIn"
@@ -72,13 +64,13 @@
 #     icon = "github"
 #     showName = false
 #     target = "_blank"
-    
-# [[footer]]
-#   name = "Garden"
-#   url = "https://notes.adnanilyas.dev/"
-#   weight = 20
-#   [footer.params]
-#     icon = "note"
-#     showName = true
-#     target = "_blank"
 
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 30
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 40

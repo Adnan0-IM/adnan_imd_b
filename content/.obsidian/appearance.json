@@ -1,9 +1,9 @@
 {
   "accentColor": "#43cfea",
-  "cssTheme": "Primary",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "cssTheme": "Cinderpaper",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "enabledCssSnippets": [
     "retro-notebook-bg",
     "Daily Note",
@@ -12,6 +12,6 @@
     "CyanVoxel's General Tweaks"
   ],
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 17
 }

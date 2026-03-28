@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8873f12a8d6efffe",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -182,8 +182,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           }
         ],
@@ -210,12 +210,12 @@
       "home-base:Open home base": false
     }
   },
-  "active": "8873f12a8d6efffe",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/index.md",
     "bases/Home.base",
-    "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md",
     "posts/life/the-most-peaceful-moment-for-me/index.md",
+    "posts/software/how-to-set-up-docker-for-a-web-app-beginner-guide/index.md",
+    "posts/growth/what-t-bag-from-prison-break-taught-me-about-not-playing-the-victim/index.md",
     "posts/notes/small-observations-that-stick-with-me/index.md",
     "posts/small-observations-that-stick-with-me",
     "posts/small-observations-that-stick-with-me/index.md",
