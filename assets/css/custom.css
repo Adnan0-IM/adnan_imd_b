@@ -206,11 +206,12 @@ h6 {
   text-decoration: none;
   background-color: var(--cp-primary);
   color: var(--cp-primary-foreground);
-  
+  border-radius: 0;
 }
 
 .link:hover {
   transition: background-color 0.2s ease-in-out;
+  scale: 1.6;
 }
 
 .profile_links {
